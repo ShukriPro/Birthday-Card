@@ -6,7 +6,7 @@
       align-items: center;
       background-color: #bddaff;
       position: relative;
-    background-image: url('Rei/background.jpg');
+    background-image: url('ReiPng/background.jpg');
     background-size: cover;
     background-position: center;
   }
@@ -24,7 +24,7 @@
   }
   .card-front {
     position: relative;
-    background-image: url('Rei/1.png');
+    background-image: url('ReiPng/1.png');
     background-size: cover;
     background-position: center;
     width: var(--card-width); /* Use variable for width */
@@ -37,7 +37,7 @@
 
 .card-inside {
     position: absolute;
-    background-image: url('Rei/2.png');
+    background-image: url('ReiPng/2.png');
     background-size: cover;
     background-position: center;
     width: var(--card-width); /* Use variable for width */
